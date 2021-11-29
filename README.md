@@ -1,1 +1,1 @@
-# standards-directory-contributions
+# Standards Directory community
